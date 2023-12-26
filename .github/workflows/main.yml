@@ -59,6 +59,7 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
       - name: Push to DockerHub
         uses: docker/build-push-action@v4
+        with:
           context: ./backend/
           push: true
           tags: ivankis42/kittygram_backend:latest
