@@ -1,0 +1,8 @@
+DOCKER_PASSWORD = Пароль пользовалетя Docker
+DOCKER_USERNAME = Имя пользовалетя DOcker
+HOST = ID сервера
+SSH_KEY = Закрытый SSH-ключ от сервера
+SHH_PASSPHRASE = Passphrase сервера
+TELEGRAM_TO = ID телеграм аакаунта пользователя
+TELEGRAM_TOKEN = Токен бота
+USER = Рользователь сервера
